@@ -1,0 +1,8 @@
+ Volume in drive C is OS
+ Volume Serial Number is D879-D055
+
+ Directory of C:\Users\User\Documents\comp1800\demo02
+
+2023-01-10  09:50 AM    <DIR>          .git
+               0 File(s)              0 bytes
+               1 Dir(s)  871,096,471,552 bytes free
